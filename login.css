@@ -1,0 +1,30 @@
+.bg-img
+{
+	background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+	background-size: cover;
+	height: 100vh;
+}
+.forms
+{
+	height: 450px;
+	width: 410px;
+	margin: 10px auto;
+	color: white;
+	padding: 20px;
+}
+input
+{
+	height: 30px;
+	width: 300px;
+}
+form .login
+{
+	margin: auto 60px;
+}
+.inside-box-heading
+{
+text-align: center;
+font-size: 25px;
+font-weight: bold;
+font-style:Bree-Serif;
+}
